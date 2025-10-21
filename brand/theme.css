@@ -1,7 +1,6 @@
 :root{
-  --color-primary:  #16ad23;
-  --color-secondary:#9cc998;
-  --color-accent:   #ac1919;
-
+  --color-primary: #0c212a;
+  --color-secondary: #332042;
+  --color-accent: #f26831;
   --font-sans: Inter, system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
 }
